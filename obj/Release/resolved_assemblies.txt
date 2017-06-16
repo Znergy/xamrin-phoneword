@@ -1,0 +1,7 @@
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/PhoneWord.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/Java.Interop.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/Mono.Android.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/System.Core.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/System.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/mscorlib.dll
+/Users/administrator/Desktop/xamrin-projects/PhoneWord/PhoneWord/obj/Release/android/assets/System.Runtime.Serialization.dll
